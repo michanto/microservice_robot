@@ -1,0 +1,4 @@
+# camera_service/requirements.txt
+Flask
+opencv-python
+picamera2
